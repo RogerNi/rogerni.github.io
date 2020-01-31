@@ -16,7 +16,7 @@ Bachelor of Science in Computer Science (CST)<br>
 **[McGill University](https://mcgill.ca/)**<br>
 Exchange student in Faculty of Science<br>
 Fully-funded by Dept. C.S., HKBU<br>
-*Sept 2019 to Dec 2019 (expected)*<br>
+*Sept 2019 to Dec 2019*<br>
 **GPA:      3.92/4.00**<br>
 **Total Credits:   12**<br>
 
