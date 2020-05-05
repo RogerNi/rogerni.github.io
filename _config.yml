@@ -2,3 +2,13 @@ theme: jekyll-theme-minimal
 title: NI Ronghao
 description: Page for Ronghao
 google_analytics: UA-117417162-1
+
+# ---------------- #
+#      Comments    #
+# ---------------- #
+comments_provider: gitalk
+gitalk:
+    owner: rogerni
+    repo: rogerni.github.io
+    clientID: 9565c34a0c4e9a86361e
+    clientSecret: 72f289b624fbe6682e675f6464b943b6cac30eb1
