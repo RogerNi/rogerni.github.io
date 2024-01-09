@@ -1,7 +1,3 @@
-# Ronghao Ni
-
-**Email: nironghao@gmail.com, ronghaon@andrew.cmu.edu**
-
 **`Computer Science`** major. Undergraduate at Hong Kong Baptist University. Master at Carnegie Mellon University.<br>
 <br>*See [my Chinese name](chn_name)*
 
