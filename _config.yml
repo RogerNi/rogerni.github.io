@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
 title: Ronghao Ni
-description: Page for Ronghao
+logo: "/logo.jpeg?raw=true"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Page for Ronghao
+  <br><br>
+  <a href="https://scholar.google.com/citations?user=Gy9bWVIAAAAJ">View My Google Scholar Profile</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/ronghao-ni/">View My LinkedIn Profile</a> 
 google_analytics: UA-117417162-1
 
 # ---------------- #
