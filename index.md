@@ -5,10 +5,6 @@
 **`Computer Science`** major. Undergraduate at Hong Kong Baptist University. Master at Carnegie Mellon University.<br>
 <br>*See [my Chinese name](chn_name)*
 
-## Personal Profile
-
-An inquisitive, self-motivated, and determined individual with a passion for new technologies in Computer Science. This person has maintained a consistently high GPA and actively participated in various activities and competitions.
-
 ## Education
 
 **[Carnegie Mellon University](https://www.cmu.edu)**<br>
@@ -38,4 +34,3 @@ High School Diploma<br>
 * (Preprint) **R. Ni**, Z. Lin, S. Wang, G. Fanti, "Mixture-of-Linear-Experts for Long-term Time Series Forecasting," under review, submitted to AISTATS 2024. [[arXiv](https://arxiv.org/abs/2312.06786)] [[code](https://anonymous.4open.science/r/MoLE)]
 * X. He, S. Wang, S. Shi, Z. Tang, Y. Wang, Z. Zhao, J. Dai, **R. Ni**, X. Zhang, X. Liu, Z. Wu, W. Yu, X. Chu, "Computer-Aided Clinical Skin Disease Diagnosis Using CNN and Object Detection Models," 2019 IEEE International Conference on Big Data (Big Data), Los Angeles, CA, USA, 2019, pp. 4839-4844. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9006528)] [[arXiv](https://arxiv.org/abs/1911.08705)]
 
-## 
