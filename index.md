@@ -1,4 +1,4 @@
-# NI Ronghao 
+# Ronghao Ni
 
 **Email: nironghao@gmail.com, ronghaon@andrew.cmu.edu**
 
